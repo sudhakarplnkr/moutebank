@@ -1,0 +1,6 @@
+{"message":"[mb:5000] mountebank v2.1.0 now taking orders - point your browser to http://localhost:5000/ for help","level":"info","timestamp":"2019-07-24T09:43:41.958Z"}
+{"message":"[mb:5000] POST /imposters","level":"info","timestamp":"2019-07-24T09:43:41.976Z"}
+{"message":"[http:5001] Open for business...","level":"info","timestamp":"2019-07-24T09:43:42.003Z"}
+{"message":"[mb:5000] POST /imposters","level":"info","timestamp":"2019-07-24T09:43:42.009Z"}
+{"message":"[http:5002] Open for business...","level":"info","timestamp":"2019-07-24T09:43:42.037Z"}
+{"message":"[http:5002] ::1:63945 => GET /customers/3","level":"info","timestamp":"2019-07-24T09:43:42.849Z"}
